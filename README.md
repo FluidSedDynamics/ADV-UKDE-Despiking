@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/811988881.svg)](https://doi.org/10.5281/zenodo.14614090)
 
-This repository contains code with an implementation of the univariate kernel density despising algorithm of Kraus, S., and Strom, K. (2024). Simplified Kernel Density-Based Algorithm for Despiking ADV Data. Submitted for review to the *Journal of Hydraulic Engineering*.
+This repository contains code implementing the univariate kernel density despising algorithm of Kraus, S., and Strom, K. (2024). Simplified Kernel Density-Based Algorithm for Despiking ADV Data, under review in the *Journal of Hydraulic Engineering*.
 
 The repository contains,
 
