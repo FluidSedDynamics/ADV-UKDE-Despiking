@@ -8,4 +8,6 @@ The repository contains,
 2. An implementation of the despiking method in `UKDE_despike_v02.py`
 3. And a Jupyter notebook (`ADV_data_exploretimeseries.ipynb`) with an example of how to use the despiking functions.
 
+Here is a [video tutorial](https://youtu.be/jr2axsy0qLs) explaining the files in this repository and walking through a simple use case.
+
 Please contact Sam Kraus samakraus@vt.edu or Kyle Strom strom@vt.edu with questions.
